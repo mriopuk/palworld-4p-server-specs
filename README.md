@@ -1,0 +1,1 @@
+# palworld-4p-server-specs
